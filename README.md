@@ -11,8 +11,8 @@ Unordered list
 - Orange
 - Mango
 - Banana
-<b/>
+- 
  **This is a bold statement**
-<b/>
+  
   _This is a italic statement_
   
