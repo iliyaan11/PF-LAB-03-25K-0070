@@ -6,7 +6,7 @@ Ordered list
 1. Monday
 2. Tuesday
 3. Wednesday
-<b/>
+
 Unordered list
 - Orange
 - Mango
